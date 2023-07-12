@@ -28,7 +28,7 @@ const subscriberSchema = new Schema({
   bio: {
     type: String, 
     // required: true,
-    maxLength: 500
+    maxLength: 500 
     // unique: true
   },
   favorite: {
