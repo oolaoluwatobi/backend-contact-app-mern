@@ -6,7 +6,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'mongodb://localhost:27017',
   'https://contatcts-app-mern-client.vercel.app',
-  'https://64af176c372b3b26d4d58375--melodious-alpaca-0ee727.netlify.app/'
+  'https://64afaec5b08cad2f8daff42f--melodious-alpaca-0ee727.netlify.app'
 ];
 
 module.exports = allowedOrigins
