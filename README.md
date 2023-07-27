@@ -112,5 +112,5 @@ Contributions are welcomed from the community! If you encounter any issues or ha
 Thank you for using our backend with Node.js, Express, and MongoDB for contact management! We hope this implementation of the MVC pattern and RESTful API endpoints serves as a helpful reference for your projects. Happy contact management!
 ## Screenshots
 
-![App Screenshot](https://github.com/oolaoluwatobi/digital-business-card/blob/master/Digital%20business%20card.png)
+![App Screenshot](https://github.com/oolaoluwatobi/backend-contact-app-mern/blob/main/public/img/backend%20contacts%20app%202023-07-27%20100218.png)
 
